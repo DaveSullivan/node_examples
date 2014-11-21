@@ -3,11 +3,11 @@
     <div class="speakers">
       <% artists.forEach(function(item) { %>
         <article class="artist group">
-          <h3><%= item.title %> <span class="small">with
-            <a href="/speakers/<%= item.shortname %>">
+          <h3> <%= item.title %> <span class="small">showing
+            <a href="/scenes/<%= item.shortname %>">
             <%= item.name %></a><span></h3>
-            <p><a href="/speakers/<%= item.shortname %>">
-              <img class="speaker" src="/images/speakers/<%= item.shortname %>_tn.jpg" alt="Photo of <%= item.name %>"></a>
+            <p><a href="/scenes/<%= item.shortname %>">
+              <img class="speaker" src="/images/scenes/<%= item.shortname %>.jpg" alt="Photo of <%= item.name %>"></a>
               <% if (page!= 'home') { %>
                 <% if (page === 'artistList') { %>
                   <%- item.summary %>
