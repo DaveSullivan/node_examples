@@ -5,14 +5,14 @@
     "shortname" : "Beach_DSCN0752",
     "summary" : "Some Beach Photos from Negril Jamaica",
     "description": "<p>Real live photos from 2014</p>",
-    "artwork": ["Beach_DSCN0751.JPG", "Beach_DSCN0752.JPG", "Beach_DSCN0755.JPG"]
+    "artwork": ["Beach_DSCN0751_sm.JPG", "Beach_DSCN0752_sm.JPG", "Beach_DSCN0755_sm.JPG"]
   },{
     "title" : "Deep Sea Wonders",
     "name": "Underwater Pictures",
     "shortname" : "Under_DSCF0049",
     "summary": "Underwater pictures",
     "description": "<p>Some of the beautiful underwater scenery in Negril</p>",    
-    "artwork" : ["Under_DSCF0049.JPG" , "Under_DSCF0052.JPG" , "Under_DSCF0072.JPG"]
+    "artwork" : ["Under_DSCF0049_sm.JPG" , "Under_DSCF0052_sm.JPG" , "Under_DSCF0072.JPG"]
   }],
 
   "social" : [{
